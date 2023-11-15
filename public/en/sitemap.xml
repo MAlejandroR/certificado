@@ -2,55 +2,55 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://certificado.infenalaces.com/en/categories/</loc>
+    <loc>http://certificado.infenalaces.com/contenido/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://certificado.infenalaces.com/categories/"
+                href="http://certificado.infenalaces.com/contenido/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://certificado.infenalaces.com/fr/categories/"
+                href="http://certificado.infenalaces.com/contenido/fr/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://certificado.infenalaces.com/en/categories/"
+                href="http://certificado.infenalaces.com/contenido/en/categories/"
                 />
   </url><url>
-    <loc>http://certificado.infenalaces.com/en/</loc>
+    <loc>http://certificado.infenalaces.com/contenido/en/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://certificado.infenalaces.com/"
+                href="http://certificado.infenalaces.com/contenido/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://certificado.infenalaces.com/fr/"
+                href="http://certificado.infenalaces.com/contenido/fr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://certificado.infenalaces.com/en/"
+                href="http://certificado.infenalaces.com/contenido/en/"
                 />
   </url><url>
-    <loc>http://certificado.infenalaces.com/en/tags/</loc>
+    <loc>http://certificado.infenalaces.com/contenido/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://certificado.infenalaces.com/tags/"
+                href="http://certificado.infenalaces.com/contenido/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://certificado.infenalaces.com/fr/tags/"
+                href="http://certificado.infenalaces.com/contenido/fr/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://certificado.infenalaces.com/en/tags/"
+                href="http://certificado.infenalaces.com/contenido/en/tags/"
                 />
   </url>
 </urlset>
