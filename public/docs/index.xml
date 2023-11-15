@@ -1,13 +1,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Certificado Web – Documentación</title>
-    <link>http://manuel.proyectosdwa.es/docs/</link>
+    <link>http://certificado.infenalaces.com/docs/</link>
     <description>Recent content in Documentación on Certificado Web</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <lastBuildDate>Sat, 08 Apr 2023 18:21:47 +0200</lastBuildDate>
     
-	  <atom:link href="http://manuel.proyectosdwa.es/docs/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="http://certificado.infenalaces.com/docs/index.xml" rel="self" type="application/rss+xml" />
     
     
       
