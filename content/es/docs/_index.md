@@ -9,15 +9,13 @@ icon: fa-solid fa-screwdriver-wrench
 ---
 
 {{% pageinfo %}}
-Aspectos vistos en la tutoría 
-Conceptos importantes en el desarrollo web
+### En este tema tratamos de forma rápida los diferentes aspectos   
+* Qué es un token   
+* Autentificación con un token a través de una api   
+* Creación de un api con rutas protegidas   
+* Crear todo el ambiente con docker   
+* Restfull con el api  
+* Rewrite para poder hacer un restfull   
 {{% /pageinfo %}}
 
-
-En esta sección mostramos un resumen de puntos concretos vistos en las tutorías
-Según vayamos teniendo tutorías actualizamos estos puntos.
-* Desarrollo web: 
-* Instalación: 
-* PHP: 
-* PHP sintaxis básica: 
 
