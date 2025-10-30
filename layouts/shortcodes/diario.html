@@ -1,0 +1,40 @@
+<details class="mb-3">
+    <summary>
+        <i class="fas fa-calendar-day text-primary"></i>
+        <strong>{{ .Get "fecha" }}</strong> — {{ .Get "tema" }}
+    </summary>
+
+    <div class="p-3 mt-2 border rounded bg-light shadow-sm">
+        {{ if eq .Page.File.Ext "md" }}
+        {{.Inner|markdownify}}
+        {{ else }}
+        {{.Inner|htmlUnescape|safeHTML}}
+        {{ end }}
+    </div>
+</details>
+
+<style>
+    summary {
+        cursor: pointer;
+        font-weight: 600;
+        color: #0d6efd; /* Azul Bootstrap */
+        font-size: 1.05rem;
+        list-style: none;
+    }
+
+    summary::-webkit-details-marker {
+        display: none; /* ocultar triángulo predeterminado */
+    }
+
+    details[open] summary {
+        color: #0a58ca;
+    }
+
+    details[open] summary::before {
+        content: "📘 ";
+    }
+
+    .p-3 h3, .p-3 h4 {
+        margin-top: 1rem;
+    }
+</style>
